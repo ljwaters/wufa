@@ -1,2 +1,3 @@
-# wufa
-Willamette University Football Analysis Graduate Research (SUMMER-FALL '25)
+# Project Manager for Willamette University Football Analytics
+
+Included in the repository is ## edit when repo is up to date ##. As project manager, I led a research initiative in partnership with Willamette University Athletics to analyze defensive football strategy using HUDL data. Working closely with coaches, I helped identify and visualize key performance metrics like pass pressures and coverage schemes on a user-friendly web platform, adaptable for every position group. Along the way, I managed team collaboration, streamlined workflows, and ensured our analysis directly supported the team’s goals. I aided in a smooth handoff to younger students for ongoing growth and worked closely with coaches to align the tool with real on-field needs.
