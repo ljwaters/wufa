@@ -1,4 +1,4 @@
-# Project Manager for Willamette University Football Analytics
+# Willamette University Football Analytics
 
 ## Instructions
 
