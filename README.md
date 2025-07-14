@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Included in the repository is all the files necessary to run the Willamette University Football Analytics (WUFA) application. This project is intended to be ran inside of Posit Cloud, and I have created a [Posit Cloud Share Link]{https://posit.cloud/content/10602663} to check it out. Alternatively, you can create a project, upload all the files in this repository inside of a folder titled 'WUFA', navigate to '/cloud/project/WUFA/WUFA_webpage.R' and click the 'Run App' button in the upper right corner of the window.
+Included in the repository is all the files necessary to run the Willamette University Football Analytics (WUFA) application. This project is intended to be ran inside of Posit Cloud, and I have created a [Posit Cloud Share Link](https://posit.cloud/content/10602663) to check it out. Alternatively, you can create a project, upload all the files in this repository inside of a folder titled 'WUFA', navigate to '/cloud/project/WUFA/WUFA_webpage.R' and click the 'Run App' button in the upper right corner of the window.
 
 We are working on troubleshooting public hosting on shinyapps.io to make this whole process more streamlined, but for a quick preview I took some snapshots of the page that I included in this repository.
 
